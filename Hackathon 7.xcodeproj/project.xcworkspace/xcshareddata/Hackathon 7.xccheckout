@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FAB03CAD-A782-4437-BF09-1BD87BBD7D04</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Hackathon 7</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BA34BFC621D2AE17245AAE62BFA93773AD15EF9</key>
+		<string>https://github.com/jbisa/Hackathon-7.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Hackathon 7.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BA34BFC621D2AE17245AAE62BFA93773AD15EF9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jbisa/Hackathon-7.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BA34BFC621D2AE17245AAE62BFA93773AD15EF9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BA34BFC621D2AE17245AAE62BFA93773AD15EF9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Hackathon%207</string>
+		</dict>
+	</array>
+</dict>
+</plist>
